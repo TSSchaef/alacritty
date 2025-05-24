@@ -1,0 +1,39 @@
+[window]
+
+opacity = 0.8
+blur = true
+
+padding.x = 10
+padding.y = 10
+position.x = 0
+position.y = 0
+
+decorations = "None"
+decorations_theme_variant = "Dark"
+
+[font]
+
+size = 14.0
+
+[colors]
+
+primary.background = "#020245"
+primary.foreground = "#cbcbcb"
+
+[selection]
+
+save_to_clipboard = true
+
+[keyboard]
+
+bindings = [
+    {key = "t", mods = "Control", action = "CreateNewWindow"},
+    {key = "e", mods = "Alt", action = "Quit"},
+    {key = "u", mods = "Control", action = "ScrollHalfPageUp"},
+    {key = "d", mods = "Control", action = "ScrollHalfPageDown"},
+    {key = "j", mods = "Control", action = "ScrollLineDown"},
+    {key = "k", mods = "Control", action = "ScrollLineUp"},
+    {key = "c", mods = "Control", action = "Copy"},
+    {key = "v", mods = "Control", action = "Paste"},
+    {key = "m", mods = "Control", action = "ToggleViMode"}
+]
