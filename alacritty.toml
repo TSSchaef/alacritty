@@ -29,8 +29,6 @@ save_to_clipboard = true
 bindings = [
     {key = "t", mods = "Control", action = "CreateNewWindow"},
     {key = "e", mods = "Alt", action = "Quit"},
-    {key = "u", mods = "Control", action = "ScrollHalfPageUp"},
-    {key = "d", mods = "Control", action = "ScrollHalfPageDown"},
     {key = "j", mods = "Control", action = "ScrollLineDown"},
     {key = "k", mods = "Control", action = "ScrollLineUp"},
     {key = "y", mods = "Control", action = "Copy"},
