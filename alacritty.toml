@@ -33,7 +33,7 @@ bindings = [
     {key = "d", mods = "Control", action = "ScrollHalfPageDown"},
     {key = "j", mods = "Control", action = "ScrollLineDown"},
     {key = "k", mods = "Control", action = "ScrollLineUp"},
-    {key = "c", mods = "Control", action = "Copy"},
+    {key = "y", mods = "Control", action = "Copy"},
     {key = "v", mods = "Control", action = "Paste"},
     {key = "m", mods = "Control", action = "ToggleViMode"}
 ]
