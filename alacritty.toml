@@ -29,8 +29,6 @@ save_to_clipboard = true
 bindings = [
     {key = "t", mods = "Control", action = "CreateNewWindow"},
     {key = "e", mods = "Alt", action = "Quit"},
-    {key = "j", mods = "Control", action = "ScrollLineDown"},
-    {key = "k", mods = "Control", action = "ScrollLineUp"},
     {key = "y", mods = "Control", action = "Copy"},
     {key = "v", mods = "Control", action = "Paste"},
     {key = "m", mods = "Control", action = "ToggleViMode"}
