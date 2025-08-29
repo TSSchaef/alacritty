@@ -1,6 +1,6 @@
 [window]
 
-opacity = 0.8
+opacity = 0.98
 blur = true
 
 padding.x = 10
@@ -9,7 +9,7 @@ position.x = 0
 position.y = 0
 
 decorations = "None"
-decorations_theme_variant = "Dark"
+# decorations_theme_variant = "Dark"
 
 [font]
 
@@ -17,7 +17,7 @@ size = 14.0
 
 [colors]
 
-primary.background = "#020245"
+primary.background = "#151520"
 primary.foreground = "#cbcbcb"
 
 [selection]
